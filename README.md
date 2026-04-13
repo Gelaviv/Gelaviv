@@ -1,42 +1,51 @@
 <h1 align="center">👋 Hi, I'm Amarachi Odunsi</h1>
 <p align="center">
-  <strong>Backend Engineering Learner | Aspiring Technical Product Manager | Real-world Problem Solver</strong>
+  <strong>Product Manager focused on payments, global products, and scalable user-centric solutions. I combine business thinking with technical understanding to drive products from idea to execution.</strong>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-🎯 I’m currently enrolled in the **ALX Backend Engineering Program (Cohort 5)**, on a mission to **master backend development using Python and Django**.
+🎯 I’m a Product Manager with experience working on global software and payment systems, where I’ve led cross-functional teams, improved payment workflows, and contributed to reducing financial risks like chargebacks through smarter product decisions.
 
-💡 I’m passionate about building solutions that solve real-world problems—**one line of code at a time**. My long-term goal is to become a **Technical Product Manager** with hands-on backend experience.
+💡 To deepen my effectiveness, I built hands-on backend knowledge (Python, APIs, and system design fundamentals). This enables me to collaborate more effectively with engineers, ask better questions, and make well-informed product decisions.
 
-🌍 I’m particularly interested in **Web3**, **HealthTech**, and **EdTech** innovations.
-
-🛠️ I previously explored backend development using:
-- `HTML`, `CSS`, `JavaScript`
-- `Node.js`, `Express.js`, and `MySQL`
+🌍 I’m particularly interested in building:
+- Fintech & payments infrastructure  
+- AI-powered products  
+- Platforms that scale across multiple markets  
 
 ---
 
-### 🔧 Current Stack
+### 🔧 Technical Foundation (for Product Execution)
 
-```python
-Languages:   Python, JavaScript
-Frameworks:  Django, Django REST Framework, Express.js
-Databases:   MySQL, PostgreSQL
-Tools:       Git, GitHub, Docker (learning), Postman
-Learning:    OOP, APIs, Authentication, Debugging, Testing
-```
+- **Backend & APIs:** Python, Django, REST APIs  
+- **Web Fundamentals:** JavaScript, Node.js, Express  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools:** Git, Postman  
 
+*Built to strengthen my ability to make technically informed product decisions and partner effectively with engineering teams.*
 
-### My Vision
-"To bridge the gap between business needs and technical execution by understanding how backend systems truly work."
+---
 
-As a Product Manager, I bring a collaborative, user-first approach to everything I build. My communication and research skills fuel my ability to turn customer pain points into well-scoped features.
+### 💡 What I Bring
 
-📬 Let's Connect
-🌐 [LinkedIn](https://www.linkedin.com/in/amarachi-odunsi)
+- Strong stakeholder and cross-functional collaboration  
+- Ability to translate user problems into clear, actionable product requirements  
+- Experience working on payment systems and global product constraints  
+- Analytical thinking for prioritization and decision-making  
+---
+
+### 🚀 Vision
+
+To build products at the intersection of fintech, AI, and emerging markets, where thoughtful product decisions can unlock real economic value at scale.
+
+---
+
+### 📬 Let's Connect
+
+🌐 [LinkedIn](https://www.linkedin.com/in/amarachi-odunsi)  
 📫 [Email](mailto:odunsiamarachi@gmail.com)
 
 
